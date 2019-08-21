@@ -14,3 +14,24 @@
 
 ### 运行图片
 
+
+
+
+
+
+
+### 运行
+
+client
+
+```bash
+npm install
+npm start
+```
+
+server
+
+```bash
+npm start // 需要mongodb
+```
+
