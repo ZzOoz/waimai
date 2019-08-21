@@ -13,12 +13,13 @@
 ​	node做后台
 
 ### 运行图片
-
-
-
-
-
-
+![image](https://github.com/ZzOoz/waimai/blob/master/image/1.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/2.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/3.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/4.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/5.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/6.PNG)
+![image](https://github.com/ZzOoz/waimai/blob/master/image/7.PNG)
 
 ### 运行
 
